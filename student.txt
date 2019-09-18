@@ -1,0 +1,4 @@
+student name: John Bond
+student number: 649770
+student class: INF1SB
+
